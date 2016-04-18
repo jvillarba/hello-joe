@@ -23,12 +23,11 @@ h1 {
 }
 
 h4 {
-  font-stretch: ultra-condensed;
-  font-size-adjust: .42;
+  font-weight: 400;
 }
 
 h2, h3, h4, h5, h6 {
-  font-family: 'Poiret One', cursive;
+  font-family: 'Josefin Sans', sans-serif;
   font-weight: normal;
   font-style: normal;
 }
